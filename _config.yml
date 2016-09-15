@@ -11,6 +11,8 @@ description: > # this means to ignore newlines until "email:"
 email: thebluelarkboutique@gmail.com
 #blog logo
 logo: "/images/logo-circle.png"
+#logo menu
+logomenu: "/images/mypicture.jpg"
 # blog cover
 cover: "/images/blue-lark-cover.jpg"
 
