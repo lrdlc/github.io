@@ -4,10 +4,10 @@
     <title>The Blue Lark Blog</title>
     <description>A place to share your handmade activities
 </description>
-    <link>http://myblog.***.***/</link>
-    <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Sep 2016 18:56:04 +0200</pubDate>
-    <lastBuildDate>Thu, 15 Sep 2016 18:56:04 +0200</lastBuildDate>
+    <link>http://lrdlc.github.io/</link>
+    <atom:link href="http://lrdlc.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 15 Sep 2016 21:44:59 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 21:44:59 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -144,8 +144,8 @@ visit my page :).&lt;/p&gt;
 favourite stone? &lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://myblog.***.***/malas/2016/09/03/gallery-mala.html</link>
-        <guid isPermaLink="true">http://myblog.***.***/malas/2016/09/03/gallery-mala.html</guid>
+        <link>http://lrdlc.github.io/malas/2016/09/03/gallery-mala.html</link>
+        <guid isPermaLink="true">http://lrdlc.github.io/malas/2016/09/03/gallery-mala.html</guid>
         
         <category>malas</category>
         
@@ -218,8 +218,8 @@ again in this blog! &lt;/p&gt;
 
 </description>
         <pubDate>Fri, 02 Sep 2016 00:00:00 +0200</pubDate>
-        <link>http://myblog.***.***/personal/2016/09/02/Welcome.html</link>
-        <guid isPermaLink="true">http://myblog.***.***/personal/2016/09/02/Welcome.html</guid>
+        <link>http://lrdlc.github.io/personal/2016/09/02/Welcome.html</link>
+        <guid isPermaLink="true">http://lrdlc.github.io/personal/2016/09/02/Welcome.html</guid>
         
         
         <category>personal</category>
