@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "My Passion for Malas"
-description: "Breathe..."
-headline: "180 (plus one) beads for meditation"
 categories: malas
 comments: true
 tags: [malas, handmade, yoga]
-mathjax: null
-featured: false
 published: true
+image: /images/blue-lark-cover.jpg
+image2: /images/blue-lark-cover.jpg
 ---
+
+
 
 >&quot;Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.&quot;
 ><small><cite title="Hanh">Hanh</cite></small>
@@ -44,61 +44,98 @@ I decided to make it (also because I am very picky about the
 colors and materials :D). 
 Here you can find some of my hand-knotted malas! 
 
-
-<figure class="third">
-	<a href="{{ site.url }}/images/mala-gallery/white-guru-1.JPG"><img src="{{ site.url }}/images/mala-gallery/white-guru-1.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/white-guru-4.JPG"><img src="{{ site.url }}/images/mala-gallery/white-guru-4.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/white-guru-3.JPG"><img src="{{ site.url }}/images/mala-gallery/white-guru-3.JPG"></a>
-    <figcaption> 
-        <a href="https://www.etsy.com/listing/462362884/pure-guru-108-mala-bead-mala-necklace?ref=shop_home_active_2"> Pure guru</a>, 
-         photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
-    </figcaption>
+<figure>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/white-guru-1.JPG" width="200"  />
+     </div>
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="/images/mala-gallery/white-guru-4.JPG"  width="200" />
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/white-guru-3.JPG" width="200" />
+    </div>
+</div>
+<figcaption> 
+<a href="https://www.etsy.com/listing/462362884/pure-guru-108-mala-bead-mala-necklace?ref=shop_home_active_2"> Pure guru</a>, 
+photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
+</figcaption>
 </figure>
 
-
-
-<figure class="third">
-	<a href="{{ site.url }}/images/mala-gallery/sugar-guru-1.JPG"><img src="{{ site.url }}/images/mala-gallery/sugar-guru-1.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/sugar-guru-2.JPG"><img src="{{ site.url }}/images/mala-gallery/sugar-guru-2.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/sugar-guru-3.JPG"><img src="{{ site.url }}/images/mala-gallery/sugar-guru-3.JPG"></a>
-    <figcaption> 
-        <a href="https://www.etsy.com/listing/461680500/sugar-guru-mala-necklace-in-navy-blue?ref=shop_home_active_5"> Sugar guru</a>, 
-         photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
-    </figcaption>
+<figure>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/sugar-guru-1.JPG" width="200"  />
+     </div>
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="/images/mala-gallery/sugar-guru-2.JPG"  width="200" />
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/sugar-guru-3.JPG" width="200" />
+    </div>
+</div>
+<figcaption> 
+<a href="https://www.etsy.com/listing/461680500/sugar-guru-mala-necklace-in-navy-blue?ref=shop_home_active_5"> Sugar guru</a>, 
+ photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
+</figcaption>
 </figure>
 
-
-<figure class="third">
-	<a href="{{ site.url }}/images/mala-gallery/forest-mala.JPG"><img src="{{ site.url }}/images/mala-gallery/forest-mala.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/forest-mala-2.JPG"><img src="{{ site.url }}/images/mala-gallery/forest-mala-2.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/forest-mala-3.JPG"><img src="{{ site.url }}/images/mala-gallery/forest-mala-3.JPG"></a>
-    <figcaption> 
-        <a href="https://www.etsy.com/listing/472873223/forest-guru-mala-necklace-with-authentic?ref=shop_home_active_10"> Forest guru</a>, 
-         photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
-    </figcaption>
+<figure>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/forest-mala.JPG" width="200"  />
+     </div>
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="/images/mala-gallery/forest-mala-2.JPG"  width="200" />
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/forest-mala-3.JPG" width="200" />
+    </div>
+</div>
+<figcaption> 
+<a href="https://www.etsy.com/listing/472873223/forest-guru-mala-necklace-with-authentic?ref=shop_home_active_10"> Forest guru</a>, photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
+</figcaption>
 </figure>
 
-<figure class="third">
-	<a href="{{ site.url }}/images/mala-gallery/magic-guru.JPG"><img src="{{ site.url }}/images/mala-gallery/magic-guru.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/magic-guru-2.JPG"><img src="{{ site.url }}/images/mala-gallery/magic-guru-2.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/magic-guru-3.JPG"><img src="{{ site.url }}/images/mala-gallery/magic-guru-3.JPG"></a>
-    <figcaption> 
-        <a href="https://www.etsy.com/listing/461882068/magic-guru-108-mala-bead-mala-necklace?ref=listing-shop-header-3"> Magic guru</a>, 
-         photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
-    </figcaption>
+<figure>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/magic-guru.JPG" width="200"  />
+     </div>
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="/images/mala-gallery/magic-guru-2.JPG"  width="200" />
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/magic-guru-3.JPG" width="200" />
+    </div>
+</div>
+<figcaption> 
+<a href="https://www.etsy.com/listing/461882068/magic-guru-108-mala-bead-mala-necklace?ref=listing-shop-header-3"> Magic guru</a>, photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
+</figcaption>
 </figure>
 
-<figure class="third">
-	<a href="{{ site.url }}/images/mala-gallery/blue-mala.JPG"><img src="{{ site.url }}/images/mala-gallery/blue-mala.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/light-guru.JPG"><img src="{{ site.url }}/images/mala-gallery/light-guru.JPG"></a>
-	<a href="{{ site.url }}/images/mala-gallery/summer-guru.JPG"><img src="{{ site.url }}/images/mala-gallery/summer-guru.JPG"></a>
-    <figcaption> 
-        <a href="https://www.etsy.com/listing/462362884/pure-guru-108-mala-bead-mala-necklace?ref=shop_home_active_2"> Blue guru</a> (left), 
-        <a href="https://www.etsy.com/listing/459385724/light-guru-mala-necklace-in-light-green?ref=shop_home_active_9"> Light guru</a> (center), 
-        <a href="https://www.etsy.com/listing/457680650/summer-guru-mala-necklace-with-faceted?ref=related-4"> Summer guru</a> (right), 
-         photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
-    </figcaption>
+<figure>
+<div class="image123">
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/blue-mala.JPG" width="200"  />
+     </div>
+    <div style="float:left;margin-right:5px;">
+        <img class="middle-img" src="/images/mala-gallery/light-guru.JPG"  width="200" />
+    </div>
+    <div style="float:left;margin-right:5px;">
+        <img src="/images/mala-gallery/summer-guru.JPG" width="200" />
+    </div>
+</div>
+<figcaption> 
+<a href="https://www.etsy.com/listing/462362884/pure-guru-108-mala-bead-mala-necklace?ref=shop_home_active_2"> Blue guru</a> (left), 
+<a href="https://www.etsy.com/listing/459385724/light-guru-mala-necklace-in-light-green?ref=shop_home_active_9"> Light guru</a> (center), 
+ <a href="https://www.etsy.com/listing/457680650/summer-guru-mala-necklace-with-faceted?ref=related-4"> Summer guru</a> (right), 
+photos by <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> TheBlueLarkBoutique</a>. 
+</figcaption>
 </figure>
+
+All my works are available on my <a href="https://www.etsy.com/shop/TheBlueLarkBoutique"> Etsy shop</a>, you are all welcomed to 
+visit my page :).
 
 What do you think about mala necklaces? Do you own one? And which is your
 favourite stone? 

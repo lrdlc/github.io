@@ -4,26 +4,26 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "The Blue Lark Blog"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A place to share your handmade activities
 
-email: a-mail@mail.mail
+email: thebluelarkboutique@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/images/logo-circle.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/images/blue-lark-cover.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'The Blue Lark'
+author: 'Laura'
+author_image: "/images/mypicture.jpg"
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+#twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
