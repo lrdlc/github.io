@@ -208,12 +208,12 @@ body {
     .blog-header {
       padding: 0 16px; } }
   .blog-header .blog-logo {
-    width: 120px;
-    height: 120px;
+    width: 208px;
+    height: 208px;
     position: absolute;
-    top: -60px;
+    top: -288px;
     right: 50%;
-    margin-right: -60px;
+    margin-right: -112px;
     background-size: cover;
     border-radius: 50%;
     z-index: 99;
@@ -419,14 +419,14 @@ body {
     text-shadow: 0px 1px 16px rgba(0, 0, 0, 0.5), 0px 0px 1px rgba(0, 0, 0, 0.5); }
   .post .article-image .author-image {
     display: inline-block;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
+    width: 80px;
+    height: 129px;
+    line-height: 80px;
     margin-right: 8px;
     margin-bottom: -10px;
     float: left;
-    background-size: cover;
-    border-radius: 100%;
+    #background-size: cover;
+    #border-radius: 100%;
     text-indent: -9999px; }
   .post .article-image .author-name {
     display: inline; }
@@ -466,14 +466,14 @@ body {
   margin-bottom: 16px; }
 .post .noarticleimage .author-image {
   display: inline-block;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  width: 80px;
+  height: 129px;
+  line-height: 129px;
   margin-right: 8px;
   margin-bottom: -10px;
   float: left;
-  background-size: cover;
-  border-radius: 100%;
+  #background-size: cover;
+  #border-radius: 100%;
   text-indent: -9999px; }
 .post .noarticleimage .author-name {
   display: inline; }
@@ -608,10 +608,10 @@ body {
     .post .bottom-teaser .isLeft .author-image {
       display: block;
       width: 80px;
-      height: 80px;
+      height: 129px;
       float: left;
-      background-size: cover;
-      border-radius: 100%;
+      #background-size: cover;
+      #border-radius: 100%;
       text-indent: -9999px; }
     .post .bottom-teaser .isLeft h4 {
       font-size: 18px;
