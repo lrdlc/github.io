@@ -7,7 +7,7 @@ permalink: /about/
 The Blue Lark is a project started in August 2016,
 with the support of my family and friends. 
 
-This blog is a place where I can express myself as an handcrafter. 
+This blog is a place where I can express myself as a handcrafter. 
  Playing with 
 colors, threads, and beads makes me feel like  a child again :D. 
 I hope to
