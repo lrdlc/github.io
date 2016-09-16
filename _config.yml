@@ -28,7 +28,7 @@ disqus: true
 disqus_shortname: thebluelark
 
 url: "https://www.thebluelark.com" # the base hostname & protocol for your site
-baseurl: "https://www.thebluelark.com"
+baseurl: ""
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
 
