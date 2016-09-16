@@ -4,15 +4,27 @@ title: About
 permalink: /about/
 ---
 
-The Blue Lark is a pro
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+The Blue Lark is a project started in August 2016,
+with the support of my family and friends. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+This blog is a place where I can express myself as an handcrafter. 
+ Playing with 
+colors, threads, and beads makes me feel like  a child again :D. 
+I hope to
+meet other handcrafters like me and to share our experience.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Being a blogger and a handcrafter is not my full-time job: I am an engineer.
+That's why I enjoyed so much building my own blog!
+If you are an engineer (I am sure that my colleagues  will visit my blog
+sooner or later) you will appreciate the next lines, otherwise 
+you will find them just boring :). 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The original theme I used can
+found at 
+[github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator). I locally generated my blog
+using [Jekyll](https://jekyllrb.com/). The code of this blog is in my GitHub
+profile [github.com/lrdlc](https://github.com/lrdlc).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am looking forward to meeting ALL of you in The Blue Lark Blog!
+
+Laura
