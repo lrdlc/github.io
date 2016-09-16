@@ -21,6 +21,8 @@ author: 'Laura'
 author_image: "/images/mypicture.jpg"
 
 paginate:	5
+#to add comments
+disquis: thebluelark
 
 url: "http://lrdlc.github.io" # the base hostname & protocol for your site
 baseurl: ""
