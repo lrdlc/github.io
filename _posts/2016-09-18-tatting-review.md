@@ -120,8 +120,7 @@ Review
 This is my opinion on the material
 
 * **Lizbeth cotton size 40 in Charcoal:** this thread is super high-quality.
-  other brands of cottons are most likely to open apart while you are working
-  them, but this one tolerates the handwork and the needlework really well. Note that the real color
+  Cotton thread usually opens apart while you work it, but this one tolerates the handwork and the needlework really well. Note that the real color
   is lighter than the color shown in the shop picture. I am really satisfied
   because that was exactly what I was I looking for. The only downside is that
   it is pricey. **Rating:4.5/5**
@@ -129,7 +128,7 @@ This is my opinion on the material
 * **Seed beads Myuki 15/0 in Luminous Ocean Blue:** Myuki seed beads are
   high-quality: their peculiarity is that all the beads are exactly equals in colors and shape. This makes the work very regular and precise, 
   I highly recommend to use these kind of beads to
-  give an high-end finish to your works. You can also use one size up if you
+  give an high-end finish to your works. You can also go up one size  if you
   like the beads to show up more. **Rating:5/5**
 
 * **Fire Polished faceted round beads 3mm Chalkwhite Blue Ceramic Look** I love
