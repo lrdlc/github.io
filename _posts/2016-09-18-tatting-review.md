@@ -129,12 +129,12 @@ This is my opinion on the material
 * **Seed beads Myuki 15/0 in Luminous Ocean Blue:** Myuki seed beads are
   high-quality: their peculiarity is that all the beads are exactly equals in colors and shape. This makes the work very regular and precise, 
   I highly recommend to use these kind of beads to
-  give an high-end finish to your works. You can also use une size up if you
+  give an high-end finish to your works. You can also use one size up if you
   like the beads to show up more. **Rating:5/5**
 
 * **Fire Polished faceted round beads 3mm Chalkwhite Blue Ceramic Look** I love
   the ceramic finish of these faceted beads, and they complemented well the
-  transparent look of the seed beads. I think I will use it a lot for my
+  transparent look of the seed beads. I think I will use them a lot for my
   earrings. Plus: it's cheap! **Rating:5/5**
 
 
